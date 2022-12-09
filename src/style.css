@@ -1,0 +1,13 @@
+body {
+  background: url('./images/lake.png') no-repeat center center fixed;
+  background-size: cover;
+
+}
+h1{
+  color: white;
+}
+#content{
+  display: flex;
+  justify-content: center;
+  
+}
